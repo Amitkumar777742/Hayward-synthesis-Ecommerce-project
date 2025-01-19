@@ -40,7 +40,7 @@ npm start
 Open the website in your browser at http://localhost:3000.
 
 Deployment
-The frontend is deployed on Netlify. You can view the live version here: Hayward Synthesis E-Commerce Website
+The frontend is deployed on Netlify. You can view the live version here: https://hayward-synthesis-ecommerce.netlify.app/
 
 Contributing
 Fork the repository.
